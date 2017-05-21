@@ -1,6 +1,6 @@
 # TodoMVC App Template
 
-> Template used for creating [TodoMVC](http://todomvc.com) apps
+> 实现自己的todo_mvc [TodoMVC](http://wangyuxuan.win/todo_mvc/) apps
 
 ![](https://github.com/tastejs/todomvc-app-css/raw/master/screenshot.png)
 
